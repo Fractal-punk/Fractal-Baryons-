@@ -2,7 +2,7 @@ Fractal Hadron Constructor
 
 Фрактальная модель кварков и конфайнмента через топологию пространства
 
-https://zenodo.org/badge/DOI/10.5281/zenodo.15638030
+[https://zenodo.org/badge/DOI/10.5281/zenodo.15638030](https://doi.org/10.5281/zenodo.15638029)
 
  Суть проекта
 
