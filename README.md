@@ -60,6 +60,6 @@ https://zenodo.org/badge/DOI/
 
 ▶ Как запустить
 
-Скачать архив
+Скачать архив https://disk.yandex.ru/d/mbcjgwSd7Oej5w
 распаковать
 запустить Hadron.exe
