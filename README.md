@@ -21,7 +21,8 @@ https://zenodo.org/badge/DOI/
         
     Конфайнмент возникает при перекрытии фракталов (чем больше общих точек — тем сильнее связь)
 
-    ![Конфайнмент](https://github.com/user-attachments/assets/ea6ed7af-ede1-4b03-94fe-b5a1fb6ff655)
+  ![Конфайнмент](https://github.com/user-attachments/assets/2d50781b-4262-46ab-b5f6-0bfddffa4a95)
+ 
 
 
     Глюоны — производные-векторы, возникающие в зонах тензорного сложения фракталов
