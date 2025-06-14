@@ -61,6 +61,6 @@ Fractal Hadron Constructor
 
 ▶ Как запустить
 
-Скачать архив [https://disk.yandex.ru/d/mbcjgwSd7Oej5w](https://disk.yandex.ru/d/GOy1RzAUYj64Kg)
+Скачать архив [[https://disk.yandex.ru/d/mbcjgwSd7Oej5w](https://disk.yandex.ru/d/GOy1RzAUYj64Kg)](https://disk.yandex.ru/d/-gnJM6LO2q_ovg)
 распаковать
-запустить Конструктор_барионов 0.2.exe
+запустить Конструктор_барионов 0.3.exe
