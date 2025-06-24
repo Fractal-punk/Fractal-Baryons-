@@ -39,7 +39,7 @@ Fractal Hadron Constructor
 
  Что уже работает
 
-    Визуализация n-кварковых систем (uud, ttt, etc.)
+    Визуализация n-кварковых систем (uud, ttt, etc.) 
 
     Карты:
 
@@ -61,6 +61,6 @@ Fractal Hadron Constructor
 
 ▶ Как запустить
 
-Скачать архив https://disk.yandex.ru/d/Mr1AKENT5ympUQ
+Скачать архив https://disk.yandex.ru/d/zHfYe4VB2XESEA
 распаковать
-запустить Конструктор_барионов 0.6.exe
+запустить Конструктор_барионов 0.7.exe
