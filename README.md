@@ -22,15 +22,13 @@ Fractal Hadron Constructor
         
     Конфайнмент возникает при перекрытии фракталов (чем больше общих точек — тем сильнее связь)
 
-  ![Конфайнмент](https://github.com/user-attachments/assets/2d50781b-4262-46ab-b5f6-0bfddffa4a95)
+ ![Конфайнмент](https://github.com/user-attachments/assets/f79a800a-68bf-4245-a542-c01a342cace5)
+
  
 
 
     Глюоны — производные-векторы, возникающие в зонах тензорного сложения фракталов
 
-    Деконфайнмент = распад топологии при разбалансировке
-
-![деконфайнмент1](https://github.com/user-attachments/assets/fa2f16b1-32f9-41bc-a976-f0fad8ff959e)
 
 
 Техническая реализация
@@ -47,9 +45,6 @@ Fractal Hadron Constructor
 
         Складчатости пространства
 
-    Симуляция распада при нарушении баланса
-    
-![Распад](https://github.com/user-attachments/assets/d0356b1a-9439-4faa-b42e-3f2bc61a9698)
 
 В этой модели:
 
@@ -58,6 +53,9 @@ Fractal Hadron Constructor
     Спин = параметр роста фрактала, а не внутренний момент.
 
     Цветовой заряд кодируется топологией глюонных колец (включая сложные формы).
+
+![Тунель](https://github.com/user-attachments/assets/febfb341-532b-4b5e-8098-bb4743c44de0)
+
 
 ▶ Как запустить
 
