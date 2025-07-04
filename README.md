@@ -59,6 +59,6 @@ https://doi.org/10.5281/zenodo.15638029
 
 ▶ Как запустить
 
-Скачать архив https://disk.yandex.ru/d/zHfYe4VB2XESEA
+Скачать архив https://disk.yandex.ru/d/TWRRARpqSkySZA
 распаковать
-запустить Конструктор_барионов 0.7.exe
+запустить Конструктор_барионов 0.8.exe
