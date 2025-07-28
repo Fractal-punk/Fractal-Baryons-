@@ -54,7 +54,11 @@ https://doi.org/10.5281/zenodo.15638029
 
     Цветовой заряд кодируется топологией глюонных колец (включая сложные формы).
 
-![Тунель](https://github.com/user-attachments/assets/febfb341-532b-4b5e-8098-bb4743c44de0)
+
+
+https://github.com/user-attachments/assets/4c780080-4d15-45dc-9baf-ef79dcc04f81
+
+
 
 
 ▶ Как запустить
