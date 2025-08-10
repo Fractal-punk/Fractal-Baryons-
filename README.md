@@ -63,6 +63,6 @@ https://github.com/user-attachments/assets/4c780080-4d15-45dc-9baf-ef79dcc04f81
 
 ▶ Как запустить
 
-Скачать архив https://disk.yandex.ru/d/Id2P2owkLaR6fA
+Скачать архив https://disk.yandex.ru/d/cHEKBcf5IADZ1Q
 распаковать
-запустить Конструктор_барионов 0.9.exe
+запустить Конструктор_барионов 0.9.1.exe
